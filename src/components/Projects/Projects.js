@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="Blogging Website"
               description="Developed a PHP (Laravel) blogging platform enabling user registration, authentication, and content publishing. Built an admin panel for managing posts, users, and comments. Implemented role-based access and optimized database queries using MySQL. Focused on clean MVC structure and secure backend logic."
-              ghLink="https://github.com"
+              ghLink="https://github.com/hamzashoukat755/news-site"
             />
           </Col>
 
@@ -39,6 +39,7 @@ function Projects() {
               isBlog={false}
               title="Enterprise Resource Planning (ERP) System"
               description="Developed a comprehensive .NET ERP system using C# WinForms and ASP.NET MVC. Features include inventory management, employee management, sales and purchase modules, financial reporting, and role-based access control. Integrated with SQL Server database using Entity Framework and ADO.NET for efficient data operations. Built reusable components and implemented data validation throughout the application."
+              ghLink="https://github.com/hamzashoukat755"
               // No GitHub link for this project
             />
           </Col>
@@ -62,7 +63,7 @@ function Projects() {
               isBlog={false}
               title="Inventory Management System"
               description="A desktop application built with C# WinForms for managing inventory, stock levels, and product information. Features include product CRUD operations, stock tracking, supplier management, and automated low-stock alerts. Uses SQL Server for data persistence with Entity Framework for ORM. Implemented form validation, data binding, and export functionality for reports."
-              ghLink="https://github.com"
+              ghLink="https://github.com/hamzashoukat755"
               // demoLink="https://example.com"
             />
           </Col>
@@ -74,7 +75,7 @@ function Projects() {
               isBlog={false}
               title="E-Commerce Web Application"
               description="Built a full-featured e-commerce platform using ASP.NET MVC and C#. Includes product catalog, shopping cart, user authentication, order management, and payment integration. Admin panel for managing products, orders, and customers. Uses SQL Server database with Entity Framework. Implemented secure payment processing and order tracking system."
-              ghLink="https://github.com"
+              ghLink="https://github.com/hamzashoukat755/ecommerce"
               // demoLink="https://example.com"
             />
           </Col>
